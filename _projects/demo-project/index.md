@@ -10,5 +10,5 @@ skills:
   - Metal fabrication
  
 
-main-image: WhatsApp Image 2025-05-11 at 18.13.27.jpeg
+main-image: /WhatsApp Image 2025-05-11 at 18.13.27.jpeg
 ---
