@@ -11,4 +11,5 @@ skills:
  
 
 main-image: WhatsApp Image 2025-05-11 at 18.13.27.jpeg
+{% include image-gallery.html images="project2.jpg" height="400" %}
 ---
