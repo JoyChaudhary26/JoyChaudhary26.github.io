@@ -10,6 +10,6 @@ main-image: /DSC_0069.jgp
 
 {% include image-gallery.html images="CV TR final.png" height="400" %}
 
-{% include image-gallery.html images="WhatsApp Image 2024-10-07 at 7.38.44 PM (1).jpeg" height="300" %}
+
 
 
