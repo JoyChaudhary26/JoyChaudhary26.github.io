@@ -9,8 +9,8 @@ skills:
   - PCB analysis
   - audio system design
 
-main-image: /Screenshot 2025-08-09 182220.png
+main-image: /WhatsApp Image 2025-06-08 at 12.56.46.jpeg 
 ---
-
+Screenshot 2025-08-09 182220.png
 # This is another demo
 
