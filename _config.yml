@@ -19,8 +19,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/WhatsApp Image 2025-08-11 at 19.26.41.jpeg
-
+profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
