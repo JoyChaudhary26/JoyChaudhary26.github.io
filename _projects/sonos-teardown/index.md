@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Low velocity Impact testing machine
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+description:Designed and built a drop-weight impact testing system to address the lack of in-house capabilities for impact testing at the university. The setup features a calibrated mass-drop mechanism, precision linear guides, adjustable impact energy control, specimen holder, automatic hoisting and load cell. The machine was fully designed, manufactured, and assembled in-house, and is now operational for testing composites used in Formula Student race cars and other research applications. 
 skills: 
   - Dynamic testing
   - LS Dyna 
