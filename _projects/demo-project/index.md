@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electric Race Car Chassis FM25
-description:  Designed and manufactured the electric race car chassis for Formula Manipal, achieving 3rd place overall at Formula Bharat 2025. The chassis featured an optimised tubular space frame with high torsional stiffness-to-weight ratio, validated through FEA in CATIA V5 and physical torsion testing using a custom-built jig. Developed ergonomic, high-precision welding fixtures to improve assembly accuracy and welder accessibility. Oversaw manufacturing timelines, welding operations, and final subsystem integration. Served as lead welder for both combustion and electric chassis builds, ensuring compliance with Formula Student safety and performance standards.
+description:  Designed and manufactured the electric race car chassis for Formula Manipal, achieving 3rd place overall at Formula Bharat 2025. The chassis featured an optimised tubular space frame with high torsional stiffness-to-weight ratio, designed in CATIA V5, conducted analysis in hyperworks and validated through physical torsion testing using a custom-built jig. Developed ergonomic, high-precision welding fixtures to improve assembly accuracy and welder accessibility. Oversaw manufacturing timelines, welding operations, and final subsystem integration. Served as lead welder for both combustion and electric chassis builds, ensuring compliance with Formula Student safety and performance standards.
 skills: 
   - Structural analysis
   - Design
